@@ -1,5 +1,3 @@
-# Writer + Editor
-
 ### Technical editing
 #### Datadog
 
