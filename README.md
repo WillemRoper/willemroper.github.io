@@ -11,7 +11,7 @@
   </div>
 
   <div style="width:175px;">
-    <p style="margin:0 0 4px;"><strong><a href="https://www.datadoghq.com/state-of-devsecops/">State of DevSecOps</a></strong> <em>(editor)</em><br><small>Feb 2026</small></p>
+    <p style="margin:0 0 4px;"><strong><a href="https://www.datadoghq.com/state-of-devsecops/">State of DevSecOps</a></strong><br><small>Feb 2026</small></p>
     <a href="https://www.datadoghq.com/state-of-devsecops/"><img src="img/state_of_devsecops_hero.png" alt="State of DevSecOps" width="175"></a>
   </div>
 
@@ -21,7 +21,7 @@
   </div>
 
   <div style="width:175px;">
-    <p style="margin:0 0 4px;"><strong><a href="https://www.datadoghq.com/state-of-cloud-security/">State of Cloud Security</a></strong> <em>(editor)</em><br><small>Oct 2025</small></p>
+    <p style="margin:0 0 4px;"><strong><a href="https://www.datadoghq.com/state-of-cloud-security/">State of Cloud Security</a></strong><br><small>Oct 2025</small></p>
     <a href="https://www.datadoghq.com/state-of-cloud-security/"><img src="img/state_of_cloud_security_hero.png" alt="State of Cloud Security" width="175"></a>
   </div>
 
@@ -46,11 +46,13 @@
   </div>
 
   <div style="width:175px;">
-    <p style="margin:0 0 4px;"><strong><a href="https://www.datadoghq.com/state-of-serverless/">The State of Serverless Report</a></strong> <em>(editor)</em><br><small>Aug 2023</small></p>
+    <p style="margin:0 0 4px;"><strong><a href="https://www.datadoghq.com/state-of-serverless/">The State of Serverless Report</a></strong><br><small>Aug 2023</small></p>
     <a href="https://www.datadoghq.com/state-of-serverless/"><img src="img/state_of_serverless_hero.png" alt="The State of Serverless Report" width="175"></a>
   </div>
 
 </div>
+
+<div style="margin-top:32px;"></div>
 
 ### Journalism
 #### Newsweek
