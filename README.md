@@ -16,7 +16,7 @@
   </div>
 
   <div style="width:175px;">
-    <p style="margin:0 0 4px;"><strong><a href="https://www.datadoghq.com/blog/observability-pipelines-otel-cost-control/">Observability pipelines with OpenTelemetry: Cost control and flexibility</a></strong><br><small>Nov 2025</small></p>
+    <p style="margin:0 0 4px;"><strong><a href="https://www.datadoghq.com/blog/observability-pipelines-otel-cost-control/">Observability pipelines with OpenTelemetry</a></strong><br><small>Nov 2025</small></p>
     <a href="https://www.datadoghq.com/blog/observability-pipelines-otel-cost-control/"><img src="img/otel_for_op_hero.png" alt="Observability pipelines with OpenTelemetry" width="175"></a>
   </div>
 
