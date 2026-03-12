@@ -1,3 +1,7 @@
+Senior Editor at Datadog, where I lead editorial strategy across technical blogs, industry reports, and newsletters covering cloud infrastructure, observability, and AI/ML.
+
+---
+
 ### Technical editing
 #### Datadog
 
