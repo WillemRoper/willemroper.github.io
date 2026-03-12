@@ -34,6 +34,16 @@
   </div>
 
   <div style="width:175px;">
+    <p style="margin:0 0 4px; min-height:60px;"><strong><a href="https://www.datadoghq.com/blog/otel-collector-distributions/">Choosing the right OpenTelemetry Collector distribution</a></strong><br><small>Jul 2025</small></p>
+    <a href="https://www.datadoghq.com/blog/otel-collector-distributions/"><img src="img/otel_collector_hero.png" alt="Choosing the right OpenTelemetry Collector distribution" width="175"></a>
+  </div>
+
+  <div style="width:175px;">
+    <p style="margin:0 0 4px; min-height:60px;"><strong><a href="https://www.datadoghq.com/blog/engineering/streaming-platform-kafka-custom-abstractions/">Achieving relentless Kafka reliability at scale with the Streaming Platform</a></strong><br><small>Feb 2025</small></p>
+    <a href="https://www.datadoghq.com/blog/engineering/streaming-platform-kafka-custom-abstractions/"><img src="img/kafka_streaming_hero.png" alt="Achieving relentless Kafka reliability at scale" width="175"></a>
+  </div>
+
+  <div style="width:175px;">
     <p style="margin:0 0 4px; min-height:60px;"><strong><a href="https://www.datadoghq.com/blog/managed-ml-best-practices/">ML platform monitoring: Best practices</a></strong><br><small>Apr 2024</small></p>
     <a href="https://www.datadoghq.com/blog/managed-ml-best-practices/"><img src="img/managed_ml_hero.png" alt="ML platform monitoring: Best practices" width="175"></a>
   </div>
@@ -46,6 +56,11 @@
   <div style="width:175px;">
     <p style="margin:0 0 4px; min-height:60px;"><strong><a href="https://www.datadoghq.com/state-of-serverless/">The State of Serverless Report</a></strong><br><small>Aug 2023</small></p>
     <a href="https://www.datadoghq.com/state-of-serverless/"><img src="img/state_of_serverless_hero.png" alt="The State of Serverless Report" width="175"></a>
+  </div>
+
+  <div style="width:175px;">
+    <p style="margin:0 0 4px; min-height:60px;"><strong><a href="https://www.datadoghq.com/blog/pup-culture/datadog-spotlight-dayspring-johnson/">Datadog Spotlight: Dayspring Johnson</a></strong><br><small>Feb 2023</small></p>
+    <a href="https://www.datadoghq.com/blog/pup-culture/datadog-spotlight-dayspring-johnson/"><img src="img/dayspring_johnson_hero.png" alt="Datadog Spotlight: Dayspring Johnson" width="175"></a>
   </div>
 
 </div>
