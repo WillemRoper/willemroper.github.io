@@ -34,12 +34,12 @@
   </div>
 
   <div style="width:175px;">
-    <p style="margin:0 0 4px; min-height:60px;"><strong><a href="https://www.datadoghq.com/blog/otel-collector-distributions/">Choosing the right OpenTelemetry Collector distribution</a></strong><br><small>Jul 2025</small></p>
+    <p style="margin:0 0 4px; min-height:60px;"><strong><a href="https://www.datadoghq.com/blog/otel-collector-distributions/">Choosing the right OTel Collector distro</a></strong><br><small>Jul 2025</small></p>
     <a href="https://www.datadoghq.com/blog/otel-collector-distributions/"><img src="img/otel_collector_hero.png" alt="Choosing the right OpenTelemetry Collector distribution" width="175"></a>
   </div>
 
   <div style="width:175px;">
-    <p style="margin:0 0 4px; min-height:60px;"><strong><a href="https://www.datadoghq.com/blog/engineering/streaming-platform-kafka-custom-abstractions/">Achieving relentless Kafka reliability at scale with the Streaming Platform</a></strong><br><small>Feb 2025</small></p>
+    <p style="margin:0 0 4px; min-height:60px;"><strong><a href="https://www.datadoghq.com/blog/engineering/streaming-platform-kafka-custom-abstractions/">Achieving relentless Kafka reliability at scale</a></strong><br><small>Feb 2025</small></p>
     <a href="https://www.datadoghq.com/blog/engineering/streaming-platform-kafka-custom-abstractions/"><img src="img/kafka_streaming_hero.png" alt="Achieving relentless Kafka reliability at scale" width="175"></a>
   </div>
 
