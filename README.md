@@ -9,7 +9,7 @@
   }
 </style>
 
-### Technical editing
+### Editorial
 #### Datadog
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
