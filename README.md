@@ -78,25 +78,21 @@
 
 <div style="margin-top:32px;"></div>
 
-### Journalism
 #### Newsweek
 
 - [COVID-19 is driving a cloud computing surge that will only continue](https://www.newsweek.com/covid-19-driving-cloud-computing-surge-that-will-only-continue-opinion-1529020) — Mar 2021
 - [Businesses are investing heavily in blockchain. But is the trust there?](https://www.newsweek.com/businesses-are-investing-heavily-blockchain-trust-there-opinion-1529155) — Sep 2020
-
-#### World Economic Forum + Statista
-
-- [Car buyers prioritize fuel efficiency over safety and low price in new survey](https://www.weforum.org/agenda/2021/03/fuel-efficiency-top-priority-for-car-buyers/) — Mar 2021
-- [Global Warming Chart - Here's How Temperatures Have Risen Since 1950](https://www.weforum.org/agenda/2021/01/global-warming-chart-average-temperatures-rising/) — Jan 2021
-
-#### Statista
-
-- [Internet Access Low Among Economic Vulnerable](https://www.statista.com/chart/22837/internet-access-among-economic-vulnerable/) — Sep 2020
-- [Peloton Sales Double During Pandemic](https://www.statista.com/chart/22836/peloton-annual-sales/) — Sep 2020
-- [Not So Local Newspapers](https://www.statista.com/chart/20661/largest-newspaper-publishers-in-america/) — Jan 2020
 
 #### Qualcomm
 
 - [The Qualcomm inventor who helped make Wi-Fi faster and more efficient for high-traffic networks](https://www.qualcomm.com/news/onq/2021/07/qualcomm-inventor-who-helped-make-wi-fi-faster-and-more-efficient-high-traffic) — Jul 2021
 - [How Dr. Lola Awoniyi-Oteri optimizes 5G through power savings and mobility management inventions](https://www.qualcomm.com/news/onq/2021/07/how-dr-lola-awoniyi-oteri-optimizes-5g-through-power-savings-and-mobility) — Jul 2021
 - [The invention of scalable numerology: how Dr. Tingfang Ji helped bring 5G to more than just smartphones](https://www.qualcomm.com/news/onq/2021/06/invention-scalable-numerology-how-dr-tingfang-ji-helped-bring-5g-more-just) — Jun 2021
+
+#### World Economic Forum + Statista
+
+- [Car buyers prioritize fuel efficiency over safety and low price in new survey](https://www.weforum.org/agenda/2021/03/fuel-efficiency-top-priority-for-car-buyers/) — Mar 2021
+- [Global Warming Chart - Here's How Temperatures Have Risen Since 1950](https://www.weforum.org/agenda/2021/01/global-warming-chart-average-temperatures-rising/) — Jan 2021
+- [Internet Access Low Among Economic Vulnerable](https://www.statista.com/chart/22837/internet-access-among-economic-vulnerable/) — Sep 2020
+- [Peloton Sales Double During Pandemic](https://www.statista.com/chart/22836/peloton-annual-sales/) — Sep 2020
+- [Not So Local Newspapers](https://www.statista.com/chart/20661/largest-newspaper-publishers-in-america/) — Jan 2020
