@@ -70,8 +70,8 @@
   </div>
 
   <div class="portfolio-card">
-    <a href="https://www.datadoghq.com/blog/pup-culture/datadog-spotlight-dayspring-johnson/"><img src="img/dayspring_johnson_hero.png" alt="Datadog Spotlight: Dayspring Johnson" width="175"></a>
-    <p style="margin:4px 0 0;"><strong><a href="https://www.datadoghq.com/blog/pup-culture/datadog-spotlight-dayspring-johnson/">Datadog Spotlight: Dayspring Johnson</a></strong><br><small>Feb 2023</small></p>
+    <a href="https://www.datadoghq.com/blog/engineering/profiling-improvements-in-go-1-18/"><img src="img/go_profiling_hero.png" alt="Profiling improvements in Go 1.18" width="175"></a>
+    <p style="margin:4px 0 0;"><strong><a href="https://www.datadoghq.com/blog/engineering/profiling-improvements-in-go-1-18/">Profiling improvements in Go 1.18</a></strong><br><small>Feb 2022</small></p>
   </div>
 
 </div>
