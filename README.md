@@ -81,8 +81,8 @@
 ### Journalism
 #### Newsweek
 
-- [After GameStop Debacle, Robinhood Faces Uncertain Public Offering](https://www.newsweek.com/after-gamestop-debacle-robinhood-faces-uncertain-public-offering-1573549) — Mar 2021
-- [Businesses Are Investing Heavily in Blockchain. But Is the Trust There?](https://www.newsweek.com/businesses-are-investing-heavily-blockchain-trust-there-opinion-1529155) — Sep 2020
+- [COVID-19 is driving a cloud computing surge that will only continue](https://www.newsweek.com/covid-19-driving-cloud-computing-surge-that-will-only-continue-opinion-1529020) — Mar 2021
+- [Businesses are investing heavily in blockchain. But is the trust there?](https://www.newsweek.com/businesses-are-investing-heavily-blockchain-trust-there-opinion-1529155) — Sep 2020
 
 #### World Economic Forum + Statista
 
