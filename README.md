@@ -125,13 +125,13 @@
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
 
   <div class="portfolio-card">
-    <a href="https://www.weforum.org/stories/2020/11/offshore-wind-energy-to-double/"><img src="img/wef_offshore_wind.jpg" alt="Offshore wind energy to double by 2025" width="175"></a>
-    <p style="margin:4px 0 0;"><strong><a href="https://www.weforum.org/stories/2020/11/offshore-wind-energy-to-double/">Offshore wind energy to double by 2025</a></strong><br><small>Nov 2020</small></p>
+    <a href="https://www.weforum.org/agenda/2021/01/global-warming-chart-average-temperatures-rising/"><img src="img/wef_global_warming.jpg" alt="Global Warming Chart - Here's How Temperatures Have Risen Since 1950" width="175"></a>
+    <p style="margin:4px 0 0;"><strong><a href="https://www.weforum.org/agenda/2021/01/global-warming-chart-average-temperatures-rising/">Here's how temperatures have risen since 1950</a></strong><br><small>Jan 2021</small></p>
   </div>
 
   <div class="portfolio-card">
-    <a href="https://www.weforum.org/agenda/2021/01/global-warming-chart-average-temperatures-rising/"><img src="img/wef_global_warming.jpg" alt="Global Warming Chart - Here's How Temperatures Have Risen Since 1950" width="175"></a>
-    <p style="margin:4px 0 0;"><strong><a href="https://www.weforum.org/agenda/2021/01/global-warming-chart-average-temperatures-rising/">Global Warming Chart - Here's How Temperatures Have Risen Since 1950</a></strong><br><small>Jan 2021</small></p>
+    <a href="https://www.weforum.org/stories/2020/11/offshore-wind-energy-to-double/"><img src="img/wef_offshore_wind.jpg" alt="Offshore wind energy to double by 2025" width="175"></a>
+    <p style="margin:4px 0 0;"><strong><a href="https://www.weforum.org/stories/2020/11/offshore-wind-energy-to-double/">Offshore wind energy to double by 2025</a></strong><br><small>Nov 2020</small></p>
   </div>
 
   <div class="portfolio-card">
