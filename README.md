@@ -136,17 +136,12 @@
 
   <div class="portfolio-card">
     <a href="https://www.statista.com/chart/22837/internet-access-among-economic-vulnerable/"><img src="img/statista_internet_access_hero.jpeg" alt="Internet Access Low Among Economic Vulnerable" width="175"></a>
-    <p style="margin:4px 0 0;"><strong><a href="https://www.statista.com/chart/22837/internet-access-among-economic-vulnerable/">Internet Access Low Among Economic Vulnerable</a></strong><br><small>Sep 2020</small></p>
-  </div>
-
-  <div class="portfolio-card">
-    <a href="https://www.statista.com/chart/22836/peloton-annual-sales/"><img src="img/statista_peloton_hero.jpeg" alt="Peloton Sales Double During Pandemic" width="175"></a>
-    <p style="margin:4px 0 0;"><strong><a href="https://www.statista.com/chart/22836/peloton-annual-sales/">Peloton Sales Double During Pandemic</a></strong><br><small>Sep 2020</small></p>
+    <p style="margin:4px 0 0;"><strong><a href="https://www.statista.com/chart/22837/internet-access-among-economic-vulnerable/">Internet access low among economic vulnerable</a></strong><br><small>Sep 2020</small></p>
   </div>
 
   <div class="portfolio-card">
     <a href="https://www.statista.com/chart/20661/largest-newspaper-publishers-in-america/"><img src="img/statista_newspapers_hero.jpeg" alt="Not So Local Newspapers" width="175"></a>
-    <p style="margin:4px 0 0;"><strong><a href="https://www.statista.com/chart/20661/largest-newspaper-publishers-in-america/">Not So Local Newspapers</a></strong><br><small>Jan 2020</small></p>
+    <p style="margin:4px 0 0;"><strong><a href="https://www.statista.com/chart/20661/largest-newspaper-publishers-in-america/">Not so local newspapers</a></strong><br><small>Jan 2020</small></p>
   </div>
 
 </div>
