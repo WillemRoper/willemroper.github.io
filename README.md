@@ -78,7 +78,6 @@
 
 <div style="margin-top:32px;"></div>
 
-### Journalism
 #### Newsweek
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
